@@ -1,5 +1,6 @@
 import About from "./components/About";
 import CTA from "./components/CTA";
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import HiringProcess from "./components/HiringProcess";
 import Perks from "./components/Perks";
@@ -25,6 +26,7 @@ const App = () => {
       <Perks />
       <HiringProcess />
       <CTA />
+      <Footer />
     </div>
   );
 };

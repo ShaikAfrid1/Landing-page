@@ -21,9 +21,6 @@ const CTA = () => {
           Apply Now 🚀
         </a>
       </div>
-      <br />
-      <br />
-      <p>© 2025 Built by Afrid – Made with 💖 using React & Tailwind</p>
     </section>
   );
 };
