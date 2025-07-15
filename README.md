@@ -1,12 +1,70 @@
-# React + Vite
+# ✨ Inweave Job-Specific Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A custom-built, fully responsive landing page created specifically for the Frontend Developer role at **Inweave Studios**. This project replicates a real-world job description and showcases skills in layout building, responsive design, animations, and attention to UI/UX details.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [View Deployed Site](https://landingpageeeee.netlify.app)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **AOS (Animate On Scroll)** – for scroll-triggered animations
+- **Netlify** – for deployment
+
+---
+
+## 🎯 Features
+
+- 🎨 Clean, modular sections based on job description
+- 📱 Fully responsive (mobile + tablet + desktop)
+- ✨ Scroll animations using AOS
+- 🖼️ Custom favicon and branding
+- 🔍 SEO optimized with meta tags
+- 📁 Well-structured components for scalability
+- 🌐 Live hosted link for portfolio/job submission
+
+---
+
+## 📄 Sections Included
+
+- Hero Banner
+- About the Role
+- Responsibilities
+- Requirements (Must-Have, Bonus, Soft Skills)
+- Perks of Working at Inweave
+- Hiring Process Timeline
+- Final Apply CTA
+- Footer with GitHub & Name
+
+---
+
+## 📂 Folder Structure
+
+```bash
+inweave-landing/
+├── public/
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── Responsibilities.jsx
+│   │   ├── Requirements.jsx
+│   │   ├── Perks.jsx
+│   │   ├── HiringProcess.jsx
+│   │   ├── CTA.jsx
+│   │   └── Footer.jsx
+│   ├── App.jsx
+│   └── index.js
+├── README.md
+└── package.json
+
+---
+
+
